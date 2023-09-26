@@ -5,7 +5,7 @@ continuación tenemos una serie de rúbricas relativas a distintos
 aspectos y objetivos de aprendizaje de la práctica.
 
 Por cada aspecto evaluable se presentan tres opciones, que en el orden
-de aparación se corresponden con: mal, regular, bien.
+de aparición se corresponden con: mal, regular, bien.
 
 ## Diseño de la interface
 
