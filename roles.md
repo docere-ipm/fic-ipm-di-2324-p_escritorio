@@ -94,8 +94,8 @@ Los _roles_ a desempeñar se describen a continuación.
   
   b) ¿Qué fue lo peor?
 
-  c) ¿Cuál fue el mejor momento de la semana (en el trabajo del
-     equipo)?
+  c) ¿Cuál fue el mejor momento de cada semana durante el trabajo del
+     equipo?
 
   d) ¿Cuál ha sido el peor?
 
