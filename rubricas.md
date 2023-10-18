@@ -84,12 +84,12 @@ Las contribuciones son equitativas.
 
 Existe un diseño software.
 
-    | El repositorio no contiene ningún pdf con el diseño software de la
+    | El repositorio no contiene ningún .md con el diseño software de la
     | aplicación, o no se corresponde con la implementación.
     
-    | Existe un pdf en el repositorio, pero sólo contiene un parte del diseño
+    | Existe un .md en el repositorio, pero sólo contiene un parte del diseño
     | software, o el diseño no está actualizado con la última versión de la
-    | aplicación.
+    | aplicación, o no está escrito en el lenguaje de mermaid.
     
     | Existe un pdf en el repositorio que contiene el diseño software de la
     | última versión de la aplicación: se corresponde con la implementación y
