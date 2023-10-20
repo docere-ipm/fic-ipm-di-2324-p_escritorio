@@ -9,7 +9,7 @@
   gráficas, uso y necesidad de la concurrencia en interfaces
   gráficas, internacionalización de intefaces gráficas.
 
-- **What you'll build**: Construireis una aplicación con una interface
+- **What you'll build**: Construiréis una aplicación con una interface
   gráfica de escritorio.
 
 - **Prerequisites**: Asumimos que os resultan familiares el lenguaje de
@@ -137,7 +137,7 @@
 
 _Congratulations friend, you've completed this assignment!_
 
-Una vez terminada la práctica no olvideis revisar el contenido del
+Una vez terminada la práctica no olvidéis revisar el contenido del
 repositorio en Github y comprobar su correcto funcionamiento antes de
 realizar la defensa.
 

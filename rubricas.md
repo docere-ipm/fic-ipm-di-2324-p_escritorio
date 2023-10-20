@@ -73,7 +73,7 @@ Las contribuciones son equitativas.
     
     | Todos los commits tienen la autoría de la misma persona.
     
-    | La cantiadad de trabajo indicada por los commits no es similar para 
+    | La cantidad de trabajo indicada por los commits no es similar para 
     | todos los miembros del equipo.
     
     | Los commits se corresponden con una contribución equilibrada de los
@@ -91,7 +91,7 @@ Existe un diseño software.
     | software, o el diseño no está actualizado con la última versión de la
     | aplicación, o no está escrito en el lenguaje de mermaid.
     
-    | Existe un pdf en el repositorio que contiene el diseño software de la
+    | Existe un .md en el repositorio que contiene el diseño software de la
     | última versión de la aplicación: se corresponde con la implementación y
     | cubre todos los aspectos implementados.
     
@@ -189,7 +189,7 @@ El flujo de ejecución está determinado exclusivamente por los eventos de la in
      | La aplicación tiene un programación poco habitual que interfiere en el
      | orden natural de procesado de eventos.
      
-     | La aplicción intenta controlar el orden en que la usuaria interacúa con
+     | La aplicación intenta controlar el orden en que la usuaria interactúa con
      | la interface. Por ejemplo: abuso de diálogos y formularios.
      
      | La aplicación procesa los eventos en el momento en que se producen y
